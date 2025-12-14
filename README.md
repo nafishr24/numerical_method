@@ -7,7 +7,7 @@ This repository contains a **Python program** that implements and compares **sev
 ## 📁 Project Structure
 
 ```
-project_root/
+numerical-method/
 │
 ├── .gitignore
 ├── LICENSE
